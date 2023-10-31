@@ -1,0 +1,5 @@
+debnath@iubat.edu,debnath,$2y$10$B/AceHfY8yXn86rBbnt19OiLyh4SOtUf.ydKvx8PCIgpFDldykr2q,user
+sanjib@iubat.edu,snajib,$2y$10$9/CvTqzIcPWcpSxQLbpzyOKLkWw.CzqbS5.H2h9dQC0OPNF32e.pW,admin
+rana@iubat.edu,rana,$2y$10$pE//bNpFsCp5.mXxjwM7J.Fv.r7hAvJgth7rYWIyRNw3gArxoIQBy,user
+raka@iubat.edu,raka,$2y$10$pE//bNpFsCp5.mXxjwM7J.Fv.r7hAvJgth7rYWIyRNw3gArxoIQBy,user
+15203075@iubat.edu,sanjib,$2y$10$1yr6KaV7tFgocg9sIp4XnO12wa8LdhUSB2pJ5DOQvhCKEo2Cw7Tli,user
